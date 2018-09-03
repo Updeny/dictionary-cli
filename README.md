@@ -11,10 +11,10 @@ Use pip for Python3 to install the following dependencies:
 ### Usage    
 To define a word:   
 define <word> [options]   
-   
-To find synonyms:
+
+To find synonyms:   
 synonym <word> [options]
 
-Options:
-  --lang <language>
+Options:   
+  --lang <language>   
     - Specify the language of the word entered
